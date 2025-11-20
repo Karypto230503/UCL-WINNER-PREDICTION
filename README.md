@@ -44,8 +44,8 @@ UCL-Winner-Prediction/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Nazmul1005/UEFA-Champions-League-UCL-Winner-Prediction-System.git
-cd UCL-Winner-Prediction-System
+git clone https://github.com/Karypto230503/UCL-WINNER-PREDICTION.git
+cd UCL-Winner-Prediction
 ```
 
 2. Install required dependencies:
